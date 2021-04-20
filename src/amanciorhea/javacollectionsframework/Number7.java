@@ -14,9 +14,9 @@ import java.util.*;
  */
 public class Number7 {
     public static void main(String[] args) {
-        compares();
+        checkUniqueValues();
     }
-    public static void compares(){
+    public static void checkUniqueValues(){
         List<String> color1 = new ArrayList<>(Arrays.asList("Pink", "Gray", "Skyblue", "White"));
         List<String> color2 = new ArrayList<>(Arrays.asList("Black", "Skyblue", "Bluegreen", "Gray"));
         

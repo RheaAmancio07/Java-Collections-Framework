@@ -5,6 +5,14 @@
  */
 package amanciorhea.javacollectionsframework;
 
+
+
+
+
+
+import static amanciorhea.javacollectionsframework.Number8.counts;
+import java.util.ArrayList;
+
 /**
  *
  * @author 2ndyrGroupA
@@ -15,7 +23,7 @@ public class AmanciorheaJavaCollectionsFramework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
     }
     
 }

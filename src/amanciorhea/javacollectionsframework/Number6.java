@@ -13,9 +13,9 @@ import java.util.*;
 
 public class Number6 {
     public static void main(String[] args) {
-        compare();
+        checkCommonValues();
     }
-    public static void compare(){
+    public static void checkCommonValues(){
         
         List<String> color1 = new ArrayList<>(Arrays.asList("Pink", "Gray", "Skyblue", "White"));
         List<String> color2 = new ArrayList<>(Arrays.asList("Black", "Skyblue", "Bluegreen", "Gray"));
